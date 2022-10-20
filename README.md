@@ -1,4 +1,4 @@
-<h1 align="center"> 🚗Rentalx API </h1>
+<h1 align="center"> Rentalx API 🚗 </h1>
 
 API focada em gerenciamento de algueis de carro.
 
